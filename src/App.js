@@ -74,7 +74,7 @@ function App() {
               <li><span className="fa-li"><i className="fas fa-check"></i></span>Community Access</li>
               <li><span className="fa-li"><i className="fas fa-check"></i></span>Unlimited Private Projects</li>
               <li><span className="fa-li"><i className="fas fa-check"></i></span>Dedicated Phone Support</li>
-              <li><span className="fa-li"><i className="fas fa-check"></i></span><strong>Unlimited</strong> Free
+              <li><span className="fa-li"><i className="fas fa-check"></i></span><strong>Unlimited puruchase</strong> Free
                 Subdomains</li>
               <li><span className="fa-li"><i className="fas fa-check"></i></span>Monthly Status Reports</li>
             </ul>
